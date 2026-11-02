@@ -1,0 +1,22 @@
+{
+  "slug": "calendar-agent",
+  "repo": "calendar-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/calendar-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "google-calendar",
+    "scheduling",
+    "meetings",
+    "calendar"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/calendar-agent"
+}
